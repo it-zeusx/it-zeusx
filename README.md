@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-zeusx&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-zeusx&theme=dark" />
